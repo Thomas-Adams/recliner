@@ -1,6 +1,6 @@
 {
   "name": "jquery-recliner",
-  "version": "0.2.2",
+  "version": "0.0.1",
   "description": "Lightweight plugin for lazy loading images and dynamic content",
   "main": "recliner.js",
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sourcey/recliner.git"
+    "url": "https://github.com/Thomas-Adams/recliner.git"
   },
   "keywords": [
     "lazy",
